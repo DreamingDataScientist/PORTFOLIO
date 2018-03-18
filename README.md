@@ -1,8 +1,8 @@
 <h1 id="박민지의-포트폴리오">박민지의 포트폴리오 </h1>
-
+<br>
 <h2 id="목차">목차</h2>
 
-
+<br>
 
 <h4 id="1-웹-크롤링-시카고-피자-맛집-분석"><strong>1. 웹 크롤링 - 시카고 피자 맛집 분석</strong></h4>
 
@@ -16,7 +16,7 @@
   </ul>
 </blockquote>
 
-
+<br>
 
 <h4 id="2-웹-크롤링-서울시에-있는-주요소는-저렴할까"><strong>2. 웹 크롤링 - 서울시에 있는 주요소는 저렴할까</strong></h4>
 
@@ -30,7 +30,7 @@
   </ul>
 </blockquote>
 
-
+<br>
 
 <h4 id="3-r-주가종목-예측-분석"><strong>3. R - 주가종목 예측 분석</strong></h4>
 
@@ -45,7 +45,7 @@
 </blockquote>
 
 
-
+<br>
 <h4 id="4-r-데이터마이닝-관련-프로젝트"><strong>4. R - 데이터마이닝 관련 프로젝트</strong></h4>
 
 <blockquote>
@@ -64,5 +64,5 @@
 
 
 </div>
-
+<br>
 <h5 id="포트폴리오-외에-개인적인-공부-자료들-입니다-자세한-사항은-여기를-눌려주세요"><i class="icon-pencil"></i> 포트폴리오 외에 <strong>개인적인 공부 자료</strong>들 입니다.  자세한 사항은 <strong><a href="https://github.com/DreamingDataScientist/DataScience/tree/master/%EB%B6%84%EC%84%9D%EA%B3%B5%EB%B6%80">여기</a></strong>를 눌려주세요.</h5>
